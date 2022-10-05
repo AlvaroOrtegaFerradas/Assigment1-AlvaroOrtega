@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourceallocation:Bachelor
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:resourceallocation="resourceallocation"
+    name="Computer Engineering">
+  <plans name="2022"
+      duration="4">
+    <years number="1">
+      <semesters
+          number="1">
+        <courses
+            name="Calculo"
+            type="FB"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Fisica"
+            type="FB"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Programacion"
+            type="FB"
+            credits="6.0"
+            language="English, Spanish"/>
+      </semesters>
+      <semesters
+          number="2">
+        <courses
+            name="Matematica Discreta"
+            type="FB"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Estructura de datos y Algoritmos"
+            type="O"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Logica"
+            type="FB"
+            credits="6.0"
+            language="English, Spanish"/>
+      </semesters>
+    </years>
+    <years number="2">
+      <semesters
+          number="3">
+        <courses
+            name="Estructura de Computadores"
+            type="O"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Estadistica"
+            type="FB"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Ingenieria del Software"
+            type="O"
+            credits="6.0"
+            language="English, Spanish"/>
+      </semesters>
+      <semesters
+          number="4">
+        <courses
+            name="Calculo Diferencial Aplicado"
+            type="FB"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Inteligencia Artificial"
+            type="O"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Sistemas Operativos"
+            type="O"
+            credits="6.0"
+            language="English, Spanish"/>
+      </semesters>
+    </years>
+    <years number="3">
+      <semesters
+          number="5">
+        <courses
+            name="Interfaces de Usuario"
+            type="O"
+            credits="6.0"
+            language="Spanish"/>
+        <courses
+            name="Heuristica y Optimizacion"
+            type="O"
+            credits="6.0"
+            language="Spanish"/>
+        <courses
+            name="Redes de Ordenadores"
+            type="O"
+            credits="6.0"
+            language="Spanish"/>
+      </semesters>
+      <semesters
+          number="6">
+        <courses
+            name="Hojas de Calculo. Nivel Avanzado"
+            type="O"
+            credits="1.5"
+            language="English, Spanish"/>
+        <courses
+            name="Aprendizaje Automatico"
+            type="O"
+            credits="6.0"
+            language="Spanish"/>
+        <courses
+            name="Procesadores del Lenguaje"
+            type="O"
+            credits="6.0"
+            language="Spanish"/>
+      </semesters>
+    </years>
+    <years number="4">
+      <semesters
+          number="7">
+        <courses
+            name="Arquitectura de Datos"
+            type="O"
+            credits="6.0"
+            language="Spanish"/>
+        <courses
+            name="Inteligencia Artificial en las Organizaciones"
+            type="O"
+            credits="6.0"
+            language="Spanish"/>
+        <courses
+            name="Ingenieria de la Ciberseguridad"
+            type="O"
+            credits="3.0"
+            language="Spanish"/>
+      </semesters>
+      <semesters
+          number="8">
+        <courses
+            name="Desarrollo y Operacion de Sistemas Software"
+            type="O"
+            credits="6.0"
+            language="Spanish"/>
+        <courses
+            name="Fundamentos de Internet de las Cosas"
+            type="O"
+            credits="6.0"
+            language="Spanish"/>
+        <courses
+            name="TFG"
+            type="TFG"
+            credits="12.0"
+            language="English, Spanish"/>
+      </semesters>
+    </years>
+  </plans>
+  <plans name="2019"
+      duration="4">
+    <years number="5">
+      <semesters
+          number="1">
+        <courses
+            name="Calculo"
+            type="FB"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Fisica"
+            type="FB"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Programacion"
+            type="FB"
+            credits="6.0"
+            language="English, Spanish"/>
+      </semesters>
+      <semesters
+          number="2">
+        <courses
+            name="Matematica Discreta"
+            type="FB"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Estructura de datos y Algoritmos"
+            type="O"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Logica"
+            type="FB"
+            credits="6.0"
+            language="English, Spanish"/>
+      </semesters>
+    </years>
+    <years number="6">
+      <semesters
+          number="3">
+        <courses
+            name="Estructura de Computadores"
+            type="O"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Estadistica"
+            type="FB"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Ingenieria del Software"
+            type="O"
+            credits="6.0"
+            language="English, Spanish"/>
+      </semesters>
+      <semesters
+          number="4">
+        <courses
+            name="Calculo Diferencial Aplicado"
+            type="FB"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Inteligencia Artificial"
+            type="O"
+            credits="6.0"
+            language="English, Spanish"/>
+        <courses
+            name="Sistemas Operativos"
+            type="O"
+            credits="6.0"
+            language="English, Spanish"/>
+      </semesters>
+    </years>
+    <years number="7">
+      <semesters
+          number="5">
+        <courses
+            name="Interfaces de Usuario"
+            type="O"
+            credits="6.0"
+            language="Spanish"/>
+        <courses
+            name="Heuristica y Optimizacion"
+            type="O"
+            credits="6.0"
+            language="Spanish"/>
+        <courses
+            name="Redes de Ordenadores"
+            type="O"
+            credits="6.0"
+            language="Spanish"/>
+      </semesters>
+      <semesters
+          number="6"
+          specialty="//@specialty.0">
+        <courses
+            name="Hojas de Calculo. Nivel Avanzado"
+            type="O"
+            credits="1.5"
+            language="English, Spanish"
+            specialty="//@specialty.0"/>
+        <courses
+            name="Aprendizaje Automatico"
+            type="O"
+            credits="6.0"
+            language="Spanish"
+            specialty="//@specialty.1"/>
+        <courses
+            name="Procesadores del Lenguaje"
+            type="O"
+            credits="6.0"
+            language="Spanish"/>
+      </semesters>
+    </years>
+    <years number="8">
+      <semesters
+          number="7"
+          specialty="//@specialty.1">
+        <courses
+            name="Multimedia"
+            type="O-P"
+            credits="6.0"
+            language="English, Spanish"
+            specialty="//@specialty.2"/>
+        <courses
+            name="Inteligencia Artificial en las Organizaciones"
+            type="O"
+            credits="6.0"
+            language="Spanish"
+            specialty="//@specialty.1"/>
+        <courses
+            name="Habilidades Profesionales Interpersonales"
+            type="O"
+            credits="3.0"
+            language="English, Spanish"/>
+      </semesters>
+      <semesters
+          number="8"
+          specialty="//@specialty.2">
+        <courses
+            name="Teoria Avanzada de la Computacion"
+            type="O-P"
+            credits="6.0"
+            language="Spanish"
+            specialty="//@specialty.1"/>
+        <courses
+            name="Informatica Grafica y Aceleracion Hardware"
+            type="O-P"
+            credits="6.0"
+            language="English, Spanish"
+            specialty="//@specialty.2"/>
+        <courses
+            name="TFG"
+            type="TFG"
+            credits="12.0"
+            language="English, Spanish"/>
+      </semesters>
+    </years>
+  </plans>
+  <specialty
+      course="//@plans.1/@years.2/@semesters.1/@courses.0"
+      semester="//@plans.1/@years.2/@semesters.1"
+      name="Information Systems"/>
+  <specialty
+      course="//@plans.1/@years.2/@semesters.1/@courses.1 //@plans.1/@years.3/@semesters.0/@courses.1 //@plans.1/@years.3/@semesters.1/@courses.0"
+      semester="//@plans.1/@years.3/@semesters.0"
+      name="Computation"/>
+  <specialty
+      course="//@plans.1/@years.3/@semesters.0/@courses.0 //@plans.1/@years.3/@semesters.1/@courses.1"
+      semester="//@plans.1/@years.3/@semesters.1"
+      name="Computer Engineering"/>
+</resourceallocation:Bachelor>
